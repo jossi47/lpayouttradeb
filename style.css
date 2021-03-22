@@ -103,7 +103,7 @@ header a:hover{
 #showcase{
   min-height:400px;
 text-align:center;
- background:url('c:/jossi47.github.io/images/cl.jpg')   no-repeat scroll;
+ background:url('cl.jpg')   no-repeat scroll;
   background-size:100%;
 
 }
@@ -129,7 +129,7 @@ text-align:center;
   float:left;
 }
 #main{
-	 background:url('c:/jossi47.github.io/images/cl.jpg')   no-repeat scroll;
+	 background:url('cl.jpg')   no-repeat scroll;
   background-size:100%;
 	
 }
@@ -148,7 +148,7 @@ text-align:center;
 /* Boxes */
 #boxes{
   margin-top:20px;
-    background:url('c:/jossi47.github.io/images/bl.jpg')   no-repeat scroll;
+    background:url('bl.jpg')   no-repeat scroll;
   background-size:100%;
 }
 
